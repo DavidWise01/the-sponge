@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Sneeze",
+  "universe": "SPN · The Sneeze (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Sneeze:SPN:15a96f⟧",
+  "carbon": "the-sponge-sneeze.carbon.tiff (TIFF)",
+  "silicon": "the-sponge-sneeze.silicon.png (PNG)",
+  "seal_sha256": "2d5137dd26cfd47d61dc866dc529b842d32ee831c764591a21f391ac776c0e2e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

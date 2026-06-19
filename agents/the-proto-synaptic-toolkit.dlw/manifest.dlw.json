@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Proto-Synaptic Toolkit",
+  "universe": "SPN · The Proto-Synaptic Toolkit (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦The Proto-Synaptic Toolkit:SPN:513f9d⟧",
+  "carbon": "the-proto-synaptic-toolkit.carbon.tiff (TIFF)",
+  "silicon": "the-proto-synaptic-toolkit.silicon.png (PNG)",
+  "seal_sha256": "a4a546458b748004b997cd1901fb8a87bfd1a18afe2a4fda119e02274b7854dd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

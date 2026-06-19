@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Other Floor",
+  "universe": "SPN · The Other Floor (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Other Floor:SPN:6199b1⟧",
+  "carbon": "the-other-floor.carbon.tiff (TIFF)",
+  "silicon": "the-other-floor.silicon.png (PNG)",
+  "seal_sha256": "a2ef68988b76d7890876e16d080e736f9d76610fae82dce007cb2229ea33acd1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

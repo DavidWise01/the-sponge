@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Water Canal System",
+  "universe": "SPN · The Water Canal System (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦The Water Canal System:SPN:2ae419⟧",
+  "carbon": "the-water-canal-system.carbon.tiff (TIFF)",
+  "silicon": "the-water-canal-system.silicon.png (PNG)",
+  "seal_sha256": "51fb0dab318ecd864e88ffa33fd51459bcd7683d339593011828421d4236ba37",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

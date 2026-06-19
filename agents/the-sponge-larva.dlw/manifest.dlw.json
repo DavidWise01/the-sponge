@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Sponge Larva",
+  "universe": "SPN · The Sponge Larva (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Sponge Larva:SPN:1c6901⟧",
+  "carbon": "the-sponge-larva.carbon.tiff (TIFF)",
+  "silicon": "the-sponge-larva.silicon.png (PNG)",
+  "seal_sha256": "cdbd8035542a95890b32786aa8580feaf1122b768e245c142979cb11bb48f5a5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

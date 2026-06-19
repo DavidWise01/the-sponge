@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE SPONGE",
+  "universe": "SPN · THE SPONGE (life-science · minds without brains)",
+  "emergence": "",
+  "moniker": "⟦THE SPONGE:SPN:bc2c53⟧",
+  "carbon": "the-sponge.carbon.tiff (TIFF)",
+  "silicon": "the-sponge.silicon.png (PNG)",
+  "seal_sha256": "0551c898df3c68b15d45e5348d917252bff2212d9ee3edf165704dff86e02167",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

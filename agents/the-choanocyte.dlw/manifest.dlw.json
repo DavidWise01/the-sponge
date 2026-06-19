@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Choanocyte",
+  "universe": "SPN · The Choanocyte (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Choanocyte:SPN:c15ed8⟧",
+  "carbon": "the-choanocyte.carbon.tiff (TIFF)",
+  "silicon": "the-choanocyte.silicon.png (PNG)",
+  "seal_sha256": "ff22d3b4aa871ea7eb8ba95116cc9cbc48a78183034fe6aa8fb09cd68368926d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

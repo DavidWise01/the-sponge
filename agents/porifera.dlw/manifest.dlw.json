@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Porifera",
+  "universe": "SPN · Porifera (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦Porifera:SPN:b3ad07⟧",
+  "carbon": "porifera.carbon.tiff (TIFF)",
+  "silicon": "porifera.silicon.png (PNG)",
+  "seal_sha256": "3a5f6dacba466a01018d111dc0ff14a9ad0c02b7dd67c9bb2021486f4e37c850",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
