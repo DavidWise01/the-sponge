@@ -4,6 +4,6 @@ slug  : the-sponge
 seal  : 0551c898df3c68b15d45e5348d917252bff2212d9ee3edf165704dff86e02167
 prev  : ba630e417f0c2b8226515959cb5c83f29cd1e4d3c267befb83bdded1d7ee2201
 link  : a7a33e4ac545f1c02c67b0633645092c1316b7e58ac9af0bf2b80f53139a6722
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
